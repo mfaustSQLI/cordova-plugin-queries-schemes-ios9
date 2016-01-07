@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plugin id="cordova-plugin-queries-schemes-ios9" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>Queries schemes cordova</name>
+    <author>Mickael FAUST (mfaust@sqli.com)</author>
+    <description>
+
+    </description>
+    <keywords></keywords>
+    <license></license>
+    <engines>
+        <engine name="cordova" version=">=3.0.0"/>
+    </engines>
+    <platform name="ios">
+      <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
+        <array>
+          <string>airbusshuttle</string>
+        </array>
+      </config-file>
+    </platform>
+</plugin>
