@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-queries-schemes-ios9",
+  "version": "0.0.1",
+  "author": "Mickael FAUST (mfaust@sqli.com)",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-queries-schemes-ios9",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "queries",
+    "url",
+    "schemes",
+    "lsapplicationqueriesschemes",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
